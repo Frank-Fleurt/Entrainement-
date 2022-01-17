@@ -1,6 +1,7 @@
 body {
   background: rgb(153, 153, 153);
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display:flex;
 }
 form{
   display: flex;
